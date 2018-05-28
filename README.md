@@ -3,8 +3,10 @@
 To run this tool please type 'php index.php app:jarral yourname' from current directory in cmd.
 
 A php based command-line tool.
-An easy way to create and register user command
-It performs following operations,
+
+You find here an easy way to create and register user command
+
+This simple tool performs following operations,
 1) For any input, it returns
     * a MD5 hash.
     * a SHA1 hash.

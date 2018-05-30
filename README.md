@@ -1,4 +1,4 @@
-# Exercise 04
+# A simple Command-line Tool
 
 To run this tool please type 'php index.php app:jarral yourname' from current directory in cmd.
 
